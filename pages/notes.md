@@ -5,4 +5,5 @@ feedformat: card
 title: Registro
 ---
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+Esta página muestra el registro invididual de cada día aprendiendo esta tecnología, ademas puedes utilizar el buscador para encontrar algún tema en específico.
+<!-- Eg:[[Hidden Note]]-->
